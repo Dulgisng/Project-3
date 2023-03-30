@@ -60,7 +60,7 @@ __Error checking__
 
 ### Validator Testing 
 
-No python rrors were found when passing through the official [Python validator](https://extendsclass.com/python-tester.html)
+No python errors were found when passing through the official [Python validator](https://extendsclass.com/python-tester.html)
 
 ### Unfixed Bugs
 
