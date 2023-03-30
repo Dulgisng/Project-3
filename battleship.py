@@ -58,12 +58,6 @@ player_ship_column = random_column(board)
 opponent_ship_row = random_row(board)
 opponent_ship_column = random_column(board)
 
-print("row: ", player_ship_row)
-print("p column: ", player_ship_column)
-print("row: ", opponent_ship_row)
-print(" o column: ", opponent_ship_column)
-
-
 # Starting the game with 10 rounds.
 for round in range(10):
     print("Round", round + 1)
