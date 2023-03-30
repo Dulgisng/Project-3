@@ -67,3 +67,12 @@ No python errors were found when passing through the official [Python validator]
 The program should work as intened with no unfixed bugs.
 
 ## Deployment
+
+Create a new repository on GitHub by clicking on the "New" button on the main page.
+Give repository a name and add a short description.
+Initialize the repository with a README file by selecting the "Add a README file" checkbox.
+Clone the repository to your local machine using Git.
+Copy the code from my local machine to the cloned repository.
+Add the files to the staging area using git add . command.
+Commit the changes using git commit -m "Initial commit" command.
+Push the changes to the GitHub repository using git push command.
