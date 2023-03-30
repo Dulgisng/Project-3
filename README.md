@@ -1,6 +1,6 @@
 # Battleship Game
 
-This is a python program that features a battleship game which involves a computer oppnent playing against the player, where each player has a grid representing an "ocean" on which they place "battleships" of various sizes. The location of each player's battleships are kept hidden from their opponent.
+This is a python program that features a battleship game which involves a computer opponent playing against the player, where each player has a grid representing an "ocean" on which they place "battleships" of various sizes. The location of each player's battleships are kept hidden from their opponent.
 
 The objective of the game is to be the first player to sink all of their opponent's battleships. To accomplish this, the player and the computer opponent takes turns calling out a "grid coordinate" on their opponent's grid.
 
