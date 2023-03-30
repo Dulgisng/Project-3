@@ -41,9 +41,9 @@ Test the game ending: I've verify that the game ends correctly when either the p
 
 - __When the player win__
 
-![Round1](media/round1.png)
+![Round1](media/round2.png)
 
-![Round2](media/round2.png)
+![Round2](media/round1.png)
 
 - __When the opponent win__
 
