@@ -76,3 +76,6 @@ Copy the code from my local machine to the cloned repository.
 Add the files to the staging area using git add . command.
 Commit the changes using git commit -m "Initial commit" command.
 Push the changes to the GitHub repository using git push command.
+Enable GitHub Pages in the repository settings.
+Choose the main branch as the source for GitHub Pages.
+Wait a few minutes for the changes to take effect.
